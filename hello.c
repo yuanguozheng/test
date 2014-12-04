@@ -2,6 +2,7 @@
 
 int main()
 {
-	puts("Hello World");
+	printf("Hello World");
+	system("pause");
 	return 0;
 }
